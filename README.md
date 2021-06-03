@@ -8,3 +8,5 @@ WebScraping com um site de rastreios semelhante ao correios.
 PyQT5 (Interface gráfica).
 Entre outras bibliotecas que auxiliam no WebScraping
 
+ps: O arquivo .ui é a template design do QTDesign.
+
